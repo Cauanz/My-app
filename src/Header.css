@@ -1,0 +1,16 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+Header {
+   display: flex;
+   align-items: center;
+   margin-bottom: 10px;
+}
+
+h1 {
+   font-size: 1.5rem;
+   margin-bottom: 10px;
+}
